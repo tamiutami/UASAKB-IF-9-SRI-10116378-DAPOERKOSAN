@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "694637743902",
+    "firebase_url": "https://yallah-7c659.firebaseio.com",
+    "project_id": "yallah-7c659",
+    "storage_bucket": "yallah-7c659.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694637743902:android:4a3297a79bbc7d8a",
+        "android_client_info": {
+          "package_name": "com.dk.dk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694637743902-c40rtib9ctff56v30l6b98hb1oqlc2e4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dk.dk",
+            "certificate_hash": "d280c8fec657f888c9eb10371f9910f8a17effc1"
+          }
+        },
+        {
+          "client_id": "694637743902-518ca21f8diasi9ab8033d0jojrjhasr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF85qU_38U3u9o7OcNhN0Pebtgr1Es5yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694637743902-518ca21f8diasi9ab8033d0jojrjhasr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
