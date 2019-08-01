@@ -1,0 +1,4 @@
+#Wed Jul 31 10:05:00 PDT 2019
+base.0=D\:\\yallah\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

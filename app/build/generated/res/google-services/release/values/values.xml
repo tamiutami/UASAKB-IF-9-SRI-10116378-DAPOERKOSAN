@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">694637743902-518ca21f8diasi9ab8033d0jojrjhasr.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://yallah-7c659.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">694637743902</string>
+    <string name="google_api_key" translatable="false">AIzaSyBF85qU_38U3u9o7OcNhN0Pebtgr1Es5yE</string>
+    <string name="google_app_id" translatable="false">1:694637743902:android:4a3297a79bbc7d8a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBF85qU_38U3u9o7OcNhN0Pebtgr1Es5yE</string>
+    <string name="google_storage_bucket" translatable="false">yallah-7c659.appspot.com</string>
+    <string name="project_id" translatable="false">yallah-7c659</string>
+</resources>
